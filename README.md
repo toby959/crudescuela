@@ -29,7 +29,7 @@
 
 <hr>
 <div aling="center">
-<a href="https://github.com/toby959/crudescuela/README.md" >
-<img aling="center" src="imagencrud.png" whidt="250" style="max-width: 100%;">
+<a href="https://github.com/toby959/crudEscuela/README.md" >
+<img aling="center" src="crudEscuela/imagencrud.png" whidt="250" style="max-width: 100%;">
 
 </div>
