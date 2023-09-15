@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christian Ariel Garay</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-<!-->
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toby959&label=Profile%20views&color=0e75b6&style=flat" alt="toby959" /> </p>
 -->
 
@@ -29,7 +29,7 @@
 
 <hr>
 <div aling="center">
-<a href="https://github.com/toby959/crudEscuela/README.md" >
+<a href="https://github.com/toby959/crudescuela/README.md" >
 <img aling="center" src="imagencrud.png" whidt="250" style="max-width: 100%;">
 
 </div>
