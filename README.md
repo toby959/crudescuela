@@ -35,6 +35,7 @@
 </div>
 ___
 
+
 ## Licencia 📜
 
 Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](https://github.com/toby959/crudescuela/blob/main/LICENSE) para más detalles.
