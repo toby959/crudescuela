@@ -33,7 +33,6 @@
 <img aling="center" src="crudEscuela/imagencrud.png" whidt="250" style="max-width: 100%;">
 
 </div>
-___
 
 
 ## Licencia 📜
