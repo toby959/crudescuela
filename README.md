@@ -33,3 +33,8 @@
 <img aling="center" src="crudEscuela/imagencrud.png" whidt="250" style="max-width: 100%;">
 
 </div>
+___
+
+## Licencia 📜
+
+Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](https://github.com/toby959/crudescuela/blob/main/LICENSE) para más detalles.
